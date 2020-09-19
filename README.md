@@ -14,7 +14,7 @@ This project is relevant because it covers a variety of topics that the course i
 
 ## III. Conceptual Design
 
-My proposed contribution is to create the application from scratch. Ideally, I would like to make an Android mobile application, but I am open to iOS/cross-platform or even web-based applications as well. I plan to use firebase to store data and user preferences/settings, and I plan to incorporate MVC design patterns to facilitate the transfer and presentation of data between the model and the view using the controller. I also plan to design and implement the UI using Android Studio (but will resort to Flutter if planning to make a cross-platform application).
+My proposed contribution is to create the application from scratch. Ideally, I would like to make an Android mobile application, but I am open to iOS/cross-platform or even web-based applications as well. I plan to use firebase to store data and user preferences/settings, and I plan to incorporate MVC design patterns to facilitate the transfer and presentation of data between the model and the view using the controller. I also plan to design and implement the UI using Android Studio (but will resort to Flutter if planning to make a cross-platform application). The menus and button functionality will be created in Java and the user interface will be written in Java as well. The Firebase API will be used to store and interact with user data, which will then be pulled from the database and given to the controller to then display to the user on the screen.
 
 ## IV. Background
 
